@@ -2,9 +2,9 @@
 
 ## Description
 
-The goal of this project was to use Python to collect, explore and manipulate data about something which is of great interest to me: housing information in Paris. I took upon me the challenge of doing a WebScraping onto the rental listing site <b/>BienIci<b/>.
+The goal of this project was to use **Python** to collect, explore and manipulate data about something which is of great interest to me: housing information in Paris. I took upon me the challenge of doing a **WebScraping** onto the rental listing site **BienIci**.
 
-I used <b/>Python<b/>, specially the packages <b/>BeautifulSoup<b/> and <b/>Pandas<b/>, to do a <b/>WebScraping<b/> of the housing information in Paris. After collecting the data, I used <b/>Pandas<b/> to <b/>explore and manipulate the usable information<b/> and, with the help of the dataframes, I could store and export all the information to a csv file. This csv file was used in the <b/>Power BI<b/> software in order to better <b/>visualize<b/> the collected data.
+I used **Python**, specially the packages <b/>BeautifulSoup<b/> and <b/>Pandas<b/>, to do a **WebScraping** of the housing information in Paris. After collecting the data, I used **Pandas** to **explore and manipulate the usable information** and, with the help of the dataframes, I could store and export all the information to a csv file. This csv file was used in the **Power BI** software in order to better **visualize** the collected data.
 
 ## Softwares
 
