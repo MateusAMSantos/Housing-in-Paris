@@ -17,9 +17,9 @@ In order to not pollute this repository, I left the program used in the reposito
 
 ## Power BI results
 
-![Screenshot 1](Housing_1.png)
+![Result 1](Housing_1.png)
 
-![Screenshot 2](Housing_2.png)
+![Result 2](Housing_2.png)
  
 
 
